@@ -1,0 +1,25 @@
+.social a{
+    font-size: 2.5em;
+    padding: 4 rem;
+    margin: 5%;
+  
+  }
+  .fa-facebook{
+    color: black;
+  }
+  .fa-twitter{
+    color: #263238;
+  }
+  .fa-instagram{
+    color: black;
+  }
+  .fa-linkedin{
+    color: black;
+  }
+  .fa-google-plus{
+    color: black;
+  }
+  .fa-github{
+    color: black;
+  }
+  

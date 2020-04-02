@@ -1,0 +1,21 @@
+This is the Title of the Blog Post
+MM/DD/YY TI:ME
+here, are, some, tags, add, a, nsfw, tag, to, make, it, 18+
+excerpt for blog
+
+Make sure you skip a line after the header: line 5 needs to be empty. Here's the body. Here you can format your blogpost as such. Writing text will parse text. Keep writing on one line to continue a paragraph, forever, and ever, and ever, and ever...
+Or start a new line for a break.
+
+Skip a line for a line break.
+---------
+Having all dashes in a line will create a vertical line.
+
+Using asterisks will *bold text.* Using underlines will _italicize the fuck out of it._ 
+
+~
+
+Having a line with just a tilda will put a symbol in the middle.
+
+Having tildas midline will ~strikethrough~ the text.
+
+[You can show an image with alt text using MD syntax.](image link)
