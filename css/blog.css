@@ -12,7 +12,7 @@ h1 {
 
 h6 {
     line-height: 30px; font-family: 'Montserrat';
-    color: salmon; font-weight: 600; font-size: 28px;
+    color: salmon; font-weight: 600; font-size: 18px;
 }
 
 hr {
@@ -102,3 +102,4 @@ h20{
 .case {
     background-color: indianred;
     background-image: linear-gradient(to right, yellow 12%, salmon 55%);
+}
